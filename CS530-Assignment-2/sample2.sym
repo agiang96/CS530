@@ -1,0 +1,12 @@
+Symbol  Value   Flags:
+-----------------------
+FIRSTT  000000  R
+LOOOOP  00000B  R
+COUNTE  00001E  R
+TABLEX  000021  R
+:):(    001791  R
+TOTA:D  002F01  R
+
+Name    Literal  Length Address:
+------------------------------
+        =Y'99'     2    000003    
