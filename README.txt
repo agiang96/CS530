@@ -1,4 +1,4 @@
-Programming Assignments from CS530 - Systems Programming (Fall 2017)
+Programming Assignments from CS530 - Systems Programming (Spring 2017)
 Language Used: C++
 
 Assignment 1 - Binary and Hex Dumps
